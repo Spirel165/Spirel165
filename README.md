@@ -1,4 +1,4 @@
-### MAC OS = CATDRONE
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20HATE%20MAC%20OS%20because%20it%20is%20trash&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!--
 **savageboy165/savageboy165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
