@@ -3,9 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savageboy165&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=000000) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savageboy165&layout=compact&exclude_repo=github-readme-stats,savageboy165.github.io)](https://github.com/savageboy165/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=savageboy165&label=Profile+Views)
+
 <!--
 **savageboy165/savageboy165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
