@@ -1,6 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=imagine%20imagining%20while%20imagining%20while%20imagining%20💫%20ok&width=800&height=400)](https://github.com/Catvibers/catvibers.github.io)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savageboy165&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=000000)
 
 ![](https://komarev.com/ghpvc/?username=savageboy165&label=Profile+Views)
 <!--
